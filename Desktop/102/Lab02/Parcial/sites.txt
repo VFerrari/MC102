@@ -1,0 +1,6 @@
+Zeller: http://stackoverflow.com/questions/15127615/determining-day-of-the-week-using-zellers-congruence
+https://en.wikipedia.org/wiki/Zeller's_congruence
+
+
+Doomsday: http://www.timeanddate.com/date/doomsday-weekday.html
+http://calendars.wikia.com/wiki/Doomsday_algorithm
